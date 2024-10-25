@@ -1,4 +1,4 @@
-https://github.com/Mihail547812/posmotri_v_okno-main
+https://github.com/Mihail547812/posmotri_v_okno
 Ссылка на репозиторий с лучшим сайтом.
 
 Проект создан для любования и восхищения.
